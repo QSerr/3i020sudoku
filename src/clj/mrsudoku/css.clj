@@ -35,7 +35,4 @@
 
   [:.cellview {:text-align "center" :border "1px solid lightgray" :margin "3px"}]
   [:.cellview [:input {:width "30px"}]]
-  [:.conflict-cell [:input {:color "red" :border-color "red"}]]
-
-
-)
+  [:.conflict-cell [:input {:color "red" :border-color "red"}]])
